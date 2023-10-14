@@ -51,7 +51,7 @@ Hi there! I'm a passionate Full Stack Developer with a Master's degree in Web De
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<h3> 🤝🏻 &nbsp;Socials </h3>
+<h3> 🤝🏻 &nbsp;Social Media</h3>
 
 <p align="center">
 <a href="https://www.hassensamir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.hassensamir.com-blue?style=flat-square&logo=google-chrome"></a>
