@@ -26,7 +26,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vuejs](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=D50000)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=8968FA)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![TailwindCss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -62,9 +65,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.hassensamir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/samir-hassen-620829197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shassen092@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.hassensamir.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.hassensamir.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/samir-hassen-620829197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hassen%20Samir-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:shassen092@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shassen092@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
