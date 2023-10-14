@@ -1,19 +1,14 @@
-<h2> Hey there!😁 I'm Samir.✌️</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samir
+=============================================================================================================================
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="start">
-    <summary><h3 style="display: inline-block">My Main Stack</h3></summary>
-    
-  </ul>
-  
-</div>
-<!--tech stack icons-->
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=14" width="140px"/>
-  </a>
-</p>
+🚀 Full Stack Developer | 🎓 Master's in Web Development | 📚 Always Learning 
+
+Hi there! I'm a passionate Full Stack Developer with a Master's degree in Web Development. I've been working with JavaScript for years and fell in love with React three years ago. I'm always eager to learn and aim to become the best in my field. I'm proficient in the MERN stack (Mongo, Express, React, Node) and enjoy turning ideas into functional applications.
+
+*   🌍  I'm based in Paris
+*   🖥️  See my portfolio at [hassensamir.com](http://hassensamir.com)
+*   ✉️  You can contact me at [shassen092@gmail.com](mailto:shassen092@gmail.com)
+*   🧠  Actively learning Next.js 13, refining my React skills, and exploring Figma for design
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
