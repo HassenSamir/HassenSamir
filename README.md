@@ -11,7 +11,7 @@
 <!--tech stack icons-->
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=14" width="130px"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=14" width="140px"/>
   </a>
 </p>
 
