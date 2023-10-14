@@ -3,13 +3,15 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h3 style="display: inline-block">🌍 My Main Stack</h3></summary>
+    <summary><h3 style="display: inline-block">My Main Stack</h3></summary>
+    
   </ul>
+  
 </div>
 <!--tech stack icons-->
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=14" width="160px"/>
   </a>
 </p>
 
@@ -29,11 +31,12 @@
   ![Vuejs](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=D50000)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=8968FA)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🖌 &nbsp;
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![TailwindCss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=FF7000)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=007BFF)
