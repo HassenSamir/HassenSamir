@@ -51,15 +51,6 @@ Hi there! I'm a passionate Full Stack Developer with a Master's degree in Web De
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
-
-<a href="https://github.com/HassenSamir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassenSamir&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassenSamir&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Socials </h3>
 
 <p align="center">
