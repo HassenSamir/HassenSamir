@@ -58,3 +58,6 @@ Hi there! I'm a passionate Full Stack Developer with a Master's degree in Web De
 <a href="https://www.linkedin.com/in/samir-hassen-620829197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hassen%20Samir-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:shassen092@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shassen092@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/HassenSamir/count.svg" />
