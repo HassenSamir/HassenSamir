@@ -23,8 +23,6 @@ Hi there! I'm a passionate Full Stack Developer with a Master's degree in Web De
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vuejs](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=D50000)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=8968FA)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🖌 &nbsp;
